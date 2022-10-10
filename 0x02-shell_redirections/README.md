@@ -1,1 +1,1 @@
-The mandatory README file
+A script that prints “Hello, World”
